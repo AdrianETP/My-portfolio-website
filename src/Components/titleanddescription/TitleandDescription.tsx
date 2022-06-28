@@ -15,7 +15,7 @@ import './TitleandDescription.css'
                         <h2 className='TD__h2--sub'>{props.sub}</h2>
                         <p className='TD__p--text'>{props.text}</p>
                         <br/>
-                        <p>{props.text2}</p>
+                        <p className='TD__p--text'>{props.text2}</p>
                   </div>
             </div>
 
