@@ -15,8 +15,8 @@ function Aboutme() {
 
       <p className='about__p--intro'>Hola, soy Adrian Eduardo Treviño Peña , Tengo 19 años, y soy estudiante en el 
         Tecnologico de Monterrey. Y aqui puedes echar un vistazo a lo que eh estado haciendo 🚀</p>
-        <Codebutton texto = "Checa mis proyectos de programacion" icono = {<MdComputer className='about__icon'/>}/>
-        <Codebutton texto = "Checa mis proyectos de musica" icono = {<BsHeadphones className='about__icon'/>}></Codebutton>
+        <Codebutton link="/code"texto = "Checa mis proyectos de programacion" icono = {<MdComputer className='about__icon'/>}/>
+        <Codebutton link ="/music"texto = "Checa mis proyectos de musica" icono = {<BsHeadphones className='about__icon'/>}></Codebutton>
       </div>
 
     </div>
