@@ -22,7 +22,7 @@ function Aboutme() {
         Tecnologico de Monterrey. Aquí puedes echar un vistazo a lo que he estado haciendo 🚀</p>
         <br/>
         <br/>
-        <h2>Cosas para checar 🔍</h2>
+        <h1>Cosas para checar 🔍</h1>
         <Codebutton link="/My-portfolio-website/code"texto = "Checa mis proyectos de programación" icono = {<MdComputer className='about__icon'/>}/>
         <Codebutton link ="/My-portfolio-website/music"texto = "Checa mis proyectos de música" icono = {<BsHeadphones className='about__icon'/>}></Codebutton>
         <div className='minibuttoncontainers'>
