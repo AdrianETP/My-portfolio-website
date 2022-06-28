@@ -23,8 +23,8 @@ function Aboutme() {
         <br/>
         <br/>
         <h2>Cosas para checar 🔍</h2>
-        <Codebutton link="/code"texto = "Checa mis proyectos de programación" icono = {<MdComputer className='about__icon'/>}/>
-        <Codebutton link ="/music"texto = "Checa mis proyectos de música" icono = {<BsHeadphones className='about__icon'/>}></Codebutton>
+        <Codebutton link="/My-portfolio-website/code"texto = "Checa mis proyectos de programación" icono = {<MdComputer className='about__icon'/>}/>
+        <Codebutton link ="/My-portfolio-website/music"texto = "Checa mis proyectos de música" icono = {<BsHeadphones className='about__icon'/>}></Codebutton>
         <div className='minibuttoncontainers'>
           <Minibutton texto = "Checa mi github" icono = {<AiFillGithub className='icon'/>} link ="https://github.com/Adrian-007391"/>
           <Minibutton texto = "Mándame un e-mail" icono = {<SiMinutemailer className='icon'/>} link="mailto:eduardotrevinop@yahoo.com.mx"/>

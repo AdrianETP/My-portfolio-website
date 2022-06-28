@@ -10,8 +10,8 @@ function Navbar() {
         <p className="Nav__p--logolastnames">TP</p>
       </div>
         <div className="Nav__div--links">
-          <Link className='Nav__link' to="/code">code</Link>
-          <Link  className='Nav__link' to="/music">music</Link>
+          <Link className='Nav__link' to="/My-portfolio-website/code">code</Link>
+          <Link  className='Nav__link' to="/My-portfolio-website/music">music</Link>
         </div>
     </div>
   );
