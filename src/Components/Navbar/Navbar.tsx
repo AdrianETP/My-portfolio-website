@@ -5,7 +5,7 @@ function Navbar() {
   const navigate = useNavigate();
   return (
     <div className='Nav'>
-       <div className="Nav__div--logo" onClick={()=>navigate('/')}>
+       <div className="Nav__div--logo" onClick={()=>navigate('/My-portfolio-website/')}>
         <p className="Nav__p--logonames">AE</p>
         <p className="Nav__p--logolastnames">TP</p>
       </div>
