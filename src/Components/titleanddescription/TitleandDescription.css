@@ -1,0 +1,21 @@
+.TD {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.TD__h1--title{
+  margin-bottom: 50px;
+  font-size: 45px;
+  text-align: center;
+}
+.TD__div--container{
+  width: 65vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.TD__p--text{
+  font-size: 15px;
+  margin-top: 15px;
+}

@@ -1,0 +1,20 @@
+*{
+  font-family: monospace;
+}
+.Code{
+  padding-top: 10vh;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.Code__div--minibuttoncontainers{
+  width: 85vw;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.Code__icon{
+  width: 120px;
+  height: 120px;
+  margin-bottom: 10px;
+}

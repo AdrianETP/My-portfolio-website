@@ -1,0 +1,32 @@
+.about__div--codebutton{
+    width: 65vw;
+    border: 0.5px solid aliceblue;
+    border-radius: 10px;
+    padding-inline: 5vw;
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: large;
+}
+
+.about__icon{
+    width: 120px;
+    height: 120px;
+}
+.about__div--codebutton:hover{
+    animation-name: colorchange;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+    border: 1px solid aliceblue;
+    
+}
+@keyframes colorchange {
+
+    100%{
+
+        background-color : #427e8f;
+        width: 70vw;
+        border:  solid 1px #427e8f;
+    }
+}

@@ -1,0 +1,27 @@
+.Minibutton__div{
+  width: 200px;
+  height: 200px;
+  border: 1px solid aliceblue;
+  border-radius: 10%;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+
+}
+.Minibutton__div:hover{
+  animation-name: changecolor;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes changecolor{
+  100%{
+    background-color: #427e8f;
+    border: 1px solid #427e8f;
+    width: 230px;
+    height: 230px;
+  }
+}

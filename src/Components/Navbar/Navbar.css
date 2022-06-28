@@ -1,0 +1,34 @@
+.Nav{
+    background-color: #427e8f;
+    height: 5vh;
+    padding: 10px;
+    font-family: monospace;
+    color:aliceblue;
+    width: 99vw;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Nav__div--logo{
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.Nav__div--logo:hover{
+    color: rgb(177, 184, 189);
+}
+.Nav__div--links{
+    font-size: 15px;
+    display: flex;
+    width:20vw;
+    justify-content: space-evenly;
+}
+.Nav__link{
+    text-decoration: none;
+    color: aliceblue;
+}
+.Nav__link:hover{
+    color: rgb(177, 184, 189); 
+}
+
