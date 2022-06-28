@@ -17,8 +17,8 @@ function Aboutme() {
       </div>
       <div className="about__div--pcontent">
 
-      <p className='about__p--intro'>Hola, soy Adrian Eduardo Treviño Peña , Tengo 19 años, y soy estudiante en el 
-        Tecnologico de Monterrey. Y aqui puedes echar un vistazo a lo que eh estado haciendo 🚀</p>
+      <p className='about__p--intro'>Hola, soy Adrian Eduardo Treviño Peña , tengo 19 años, soy estudiante en el 
+        Tecnologico de Monterrey, y aqui puedes echar un vistazo a lo que eh estado haciendo 🚀</p>
         <br/>
         <br/>
         <h2>Cosas para checar 🔍</h2>

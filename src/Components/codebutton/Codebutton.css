@@ -1,6 +1,6 @@
 .about__div--codebutton{
+    background-color : #427e8f;
     width: 65vw;
-    border: 0.5px solid aliceblue;
     border-radius: 10px;
     padding-inline: 5vw;
     height: 20vh;
@@ -26,7 +26,6 @@
 
     100%{
 
-        background-color : #427e8f;
         width: 70vw;
         border:  solid 1px #427e8f;
     }

@@ -1,11 +1,9 @@
 body{
-  background-color: #2c323b;
-  color: aliceblue;
-  font-family: monospace;
+  background-color: aliceblue;
 }
 .icon{
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 10px;
 }
 

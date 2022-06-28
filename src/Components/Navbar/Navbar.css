@@ -3,12 +3,12 @@
     height: 5vh;
     padding: 10px;
     font-family: monospace;
-    color:aliceblue;
     width: 99vw;
     position: fixed;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-bottom: 1px solid aliceblue;
 }
 .Nav__div--logo{
     font-size: 20px;
@@ -26,7 +26,7 @@
 }
 .Nav__link{
     text-decoration: none;
-    color: aliceblue;
+    color: black;
 }
 .Nav__link:hover{
     color: rgb(177, 184, 189); 

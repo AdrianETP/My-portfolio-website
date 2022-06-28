@@ -5,6 +5,7 @@ import './TitleandDescription.css'
        titulo : string;
        sub:string;
        text:string;
+       text2:string;
  }
  function TitleandDescription(props:Props){
       return(
@@ -13,6 +14,8 @@ import './TitleandDescription.css'
                   <div className='TD__div--container'>
                         <h2 className='TD__h2--sub'>{props.sub}</h2>
                         <p className='TD__p--text'>{props.text}</p>
+                        <br/>
+                        <p>{props.text2}</p>
                   </div>
             </div>
 
