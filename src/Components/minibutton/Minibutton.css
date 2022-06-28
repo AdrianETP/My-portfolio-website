@@ -9,7 +9,7 @@
   flex-direction: column;
   justify-content: space-between;
   text-align: center;
-
+  margin: 20px;
 }
 .Minibutton__div:hover{
   animation-name: changecolor;
