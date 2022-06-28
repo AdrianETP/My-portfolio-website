@@ -27,7 +27,7 @@ function Aboutme() {
         <div className='minibuttoncontainers'>
           <Minibutton texto = "Checa mi github" icono = {<AiFillGithub className='icon'/>} link ="https://github.com/Adrian-007391"/>
           <Minibutton texto = "mandame un email" icono = {<SiMinutemailer className='icon'/>} link="mailto:eduardotrevinop@yahoo.com.mx"/>
-          <Minibutton texto = "Checa mi twitter" icono = {<BsTwitter className='icon'/>}/>
+          <Minibutton texto = "Checa mi twitter" icono = {<BsTwitter className='icon'/>} link ="https://twitter.com/AdrianEduardoT5"/>
         </div>
 
       </div>
