@@ -10,7 +10,7 @@ function Codebutton(props:Props){
   const gotolink = useNavigate();
   return(
       <div className="about__div--codebutton" onClick={()=>gotolink(props.link)}>
-        <h3> {props.texto}</h3>
+        <h1 className='about__h1--text'> {props.texto}</h1>
         {props.icono}
       </div>
   );

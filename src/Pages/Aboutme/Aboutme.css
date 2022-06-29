@@ -8,7 +8,8 @@
 .about__h1--title::before{
  content: "Hola, soy Adrian 💡";
  color: #1A3C40;
- font-size: larger;
+ text-align: center;
+ font-size: 2.2rem;
  animation-name:nombre ;
  animation-duration: 6s;
  animation-iteration-count: infinite;

@@ -10,7 +10,9 @@
     font-size: large;
     margin-top:100px;
 }
-
+.about__h1--text{
+    font-size: 2.2rem;
+}
 .about__icon{
     width: 120px;
     height: 120px;
