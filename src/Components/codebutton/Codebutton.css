@@ -7,11 +7,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: large;
     margin-top:100px;
 }
 .about__h1--text{
-    font-size: 2.2rem;
+    font-size:2rem;
 }
 .about__icon{
     width: 120px;

@@ -4,16 +4,16 @@
     justify-content: center;
     width: 99vw;
     margin-bottom: 50px;
+    text-align: center;
+
 }
 .about__h1--title::before{
  content: "Hola, soy Adrian 💡";
  color: #1A3C40;
- text-align: center;
- font-size: 2.2rem;
  animation-name:nombre ;
  animation-duration: 6s;
  animation-iteration-count: infinite;
- font-size: 50px;
+ font-size: 2.9rem;
 }
 .about__div--pcontent{
 
