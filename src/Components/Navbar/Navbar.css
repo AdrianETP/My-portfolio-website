@@ -1,5 +1,5 @@
 .Nav{
-    background-color: #427e8f;
+    background-color: #1D5C63 ;
     height: 5vh;
     padding: 10px;
     font-family: monospace;
@@ -14,14 +14,15 @@
     font-size: 20px;
     margin-left: 20px;
     cursor: pointer;
+    color: #1A3C40;
 }
 .Nav__div--logo:hover{
-    color: rgb(177, 184, 189);
+    color: #EDE6DB;
 }
 .Nav__div--links{
     font-size: 15px;
     display: flex;
-    width:20vw;
+    width:40vw;
     justify-content: space-evenly;
 }
 .Nav__link{

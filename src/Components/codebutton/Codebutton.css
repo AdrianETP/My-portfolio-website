@@ -1,5 +1,5 @@
 .about__div--codebutton{
-    background-color : #427e8f;
+    background-color: #417D7A;
     width: 65vw;
     border-radius: 10px;
     padding-inline: 5vw;
@@ -25,8 +25,8 @@
 @keyframes colorchange {
 
     100%{
-
+        background-color : #1D5C63;
+        color : #EDE6DB;
         width: 70vw;
-        border:  solid 1px #427e8f;
     }
 }

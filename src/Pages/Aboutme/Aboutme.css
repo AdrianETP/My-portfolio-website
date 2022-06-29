@@ -2,11 +2,12 @@
     padding-top: 10vh;
     display: flex;
     justify-content: center;
-    width: 100vw;
+    width: 99vw;
     margin-bottom: 50px;
 }
 .about__h1--title::before{
  content: "Hola, soy Adrian 💡";
+ color: #1A3C40;
  font-size: larger;
  animation-name:nombre ;
  animation-duration: 6s;
@@ -14,6 +15,8 @@
  font-size: 50px;
 }
 .about__div--pcontent{
+
+    color : #1A3C40;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -26,6 +29,7 @@
     text-align: center;
     line-height: 30px;
     font-size: 20px;
+    color: #2C3333;
 }
 @keyframes nombre {
     25%{

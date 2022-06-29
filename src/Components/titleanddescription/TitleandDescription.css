@@ -4,11 +4,13 @@
   align-items: center;
 }
 .TD__h1--title{
+  color: #2C3333;
   margin-bottom: 50px;
   font-size: 45px;
   text-align: center;
 }
 .TD__div--container{
+  color: #2C3333;
   width: 65vw;
   display: flex;
   flex-direction: column;

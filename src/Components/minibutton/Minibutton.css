@@ -1,6 +1,6 @@
 .Minibutton__div{
 
-  background-color: #427e8f;
+  background-color: #417D7A;
   width: 230px;
   height: 250px;
   border-radius: 10%;
@@ -20,7 +20,9 @@
 
 @keyframes changecolor{
   100%{
-    border: 1px solid #427e8f;
+    background-color: #1D5C63 ;
+    border: 1px solid #1D5C63;
+    color: #EDE6DB;
     width: 260px;
     height: 260px;
   }
